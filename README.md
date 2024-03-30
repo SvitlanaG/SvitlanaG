@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 My name is Svitlana Grytsai
+
+- 👩🏻‍💻 I’m a software developer
+- 📍 Based in Berlin
+- 🔗 Here is a [link](https://svitlanag.github.io/rsschool-cv/) to my CV
+- 🔍 Feel free to browse my repositories and explore the code behind my pet projects.
 
 <!--
 **SvitlanaG/SvitlanaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
